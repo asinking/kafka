@@ -1,0 +1,20 @@
+{
+    "name": "asinking/kafka",
+    "description": "this is kafak consumer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaoqiang",
+            "email": "liuqiang@asinking.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.org"
+        }
+    }
+}
